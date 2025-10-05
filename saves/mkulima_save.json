@@ -1,0 +1,76 @@
+{
+  "player_name": "mkulima",
+  "avatar": {
+    "skin": "\ud83d\udc68\ud83c\udffe",
+    "hat": "\ud83d\udc68\u200d\ud83c\udf3e",
+    "outfit": "\ud83d\udc54",
+    "tool": "\ud83d\udd28",
+    "farm_name": "shambani"
+  },
+  "dark_mode": false,
+  "last_save": "2025-10-05T11:54:08.790675",
+  "level": 1,
+  "xp": 0,
+  "energy": 100,
+  "money": 1000,
+  "seeds": 50,
+  "water": 100,
+  "fertilizer": 20,
+  "farm_plots": [
+    {
+      "crop": null,
+      "planted_day": 0,
+      "health": 100,
+      "watered": false
+    },
+    {
+      "crop": null,
+      "planted_day": 0,
+      "health": 100,
+      "watered": false
+    },
+    {
+      "crop": null,
+      "planted_day": 0,
+      "health": 100,
+      "watered": false
+    },
+    {
+      "crop": null,
+      "planted_day": 0,
+      "health": 100,
+      "watered": false
+    }
+  ],
+  "current_era": "1960s",
+  "day": 0,
+  "era_progress": {
+    "1960s": {
+      "unlocked": true,
+      "events_completed": 0,
+      "completed": false
+    },
+    "1980s": {
+      "unlocked": false,
+      "events_completed": 0,
+      "completed": false
+    },
+    "2000s": {
+      "unlocked": false,
+      "events_completed": 0,
+      "completed": false
+    },
+    "2010s": {
+      "unlocked": false,
+      "events_completed": 0,
+      "completed": false
+    },
+    "2020s": {
+      "unlocked": false,
+      "events_completed": 0,
+      "completed": false
+    }
+  },
+  "active_events": [],
+  "completed_challenges": []
+}

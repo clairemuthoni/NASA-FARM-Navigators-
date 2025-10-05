@@ -1,53 +1,53 @@
 {
   "player_name": "mama mboga",
   "avatar": {
-    "skin": "\ud83d\udc68\ud83c\udffe",
-    "hat": "\ud83d\udc68\u200d\ud83c\udf3e",
-    "outfit": "\ud83d\udc54",
-    "tool": "\ud83d\udd28",
+    "skin": "\ud83d\udc69\ud83c\udffe",
+    "hat": "\u26d1\ufe0f",
+    "outfit": "\ud83e\uddba",
+    "tool": "\u2692\ufe0f",
     "farm_name": "shamba shapeup"
   },
-  "dark_mode": true,
-  "last_save": "2025-10-05T11:23:23.341440",
+  "dark_mode": false,
+  "last_save": "2025-10-05T14:50:23.055092",
   "level": 1,
-  "xp": 100,
+  "xp": 0,
   "energy": 100,
-  "money": 1100,
-  "seeds": 42,
+  "money": 1000,
+  "seeds": 46,
   "water": 100,
   "fertilizer": 20,
   "farm_plots": [
     {
-      "crop": "tomatoes",
-      "planted_day": 15,
-      "health": 45,
+      "crop": "coffee",
+      "planted_day": 0,
+      "health": 80,
+      "watered": false
+    },
+    {
+      "crop": "maize",
+      "planted_day": 0,
+      "health": 75,
       "watered": false
     },
     {
       "crop": "sukuma",
-      "planted_day": 15,
-      "health": 45,
+      "planted_day": 0,
+      "health": 75,
       "watered": false
     },
     {
-      "crop": "coffee",
-      "planted_day": 15,
-      "health": 45,
-      "watered": false
-    },
-    {
-      "crop": "beans",
-      "planted_day": 15,
-      "health": 45,
+      "crop": "sukuma",
+      "planted_day": 0,
+      "health": 75,
       "watered": false
     }
   ],
   "current_era": "1960s",
-  "day": 16,
+  "day": 6,
   "era_progress": {
     "1960s": {
       "unlocked": true,
-      "events_completed": 1,
+      "events_completed": 4,
       "completed": false
     },
     "1980s": {
@@ -75,7 +75,7 @@
     {
       "name": "Kenya Independence",
       "year": 1963,
-      "day": 15,
+      "day": 2,
       "location": {
         "lat": -1.2921,
         "lon": 36.8219,
@@ -89,6 +89,58 @@
       "description": "Kenya achieves independence! Uhuru celebrations bring hope and new opportunities for farmers.",
       "challenge": "Participate in national food drive for independence celebrations",
       "emoji": "\ud83c\uddf0\ud83c\uddea"
+    },
+    {
+      "name": "Land Reform Programme",
+      "year": 1964,
+      "day": 3,
+      "location": {
+        "lat": -0.0917,
+        "lon": 34.768,
+        "name": "Rift Valley"
+      },
+      "type": "political",
+      "effect": {
+        "land_size": 25
+      },
+      "description": "Government land redistribution program. Opportunity to acquire more farmland!",
+      "challenge": "Purchase additional land plot for expansion",
+      "emoji": "\ud83c\udfde\ufe0f"
+    },
+    {
+      "name": "Coffee Boom",
+      "year": 1966,
+      "day": 4,
+      "location": {
+        "lat": -0.4023,
+        "lon": 36.963,
+        "name": "Central Kenya"
+      },
+      "type": "economic",
+      "effect": {
+        "crop_value": 50
+      },
+      "description": "Global coffee prices soar! Kenyan coffee farmers prosper.",
+      "challenge": "Plant and harvest premium coffee for export",
+      "emoji": "\u2615"
+    },
+    {
+      "name": "East African Drought",
+      "year": 1968,
+      "day": 5,
+      "location": {
+        "lat": 1.2921,
+        "lon": 36.8219,
+        "name": "Northern Kenya"
+      },
+      "type": "disaster",
+      "effect": {
+        "water": -40,
+        "crop_health": -30
+      },
+      "description": "Severe drought hits East Africa. Water sources dry up, crops wither.",
+      "challenge": "Survive 10 days with reduced water supply",
+      "emoji": "\ud83c\udfdc\ufe0f"
     }
   ],
   "completed_challenges": []
