@@ -1,0 +1,95 @@
+{
+  "player_name": "mama mboga",
+  "avatar": {
+    "skin": "\ud83d\udc68\ud83c\udffe",
+    "hat": "\ud83d\udc68\u200d\ud83c\udf3e",
+    "outfit": "\ud83d\udc54",
+    "tool": "\ud83d\udd28",
+    "farm_name": "shamba shapeup"
+  },
+  "dark_mode": true,
+  "last_save": "2025-10-05T11:23:23.341440",
+  "level": 1,
+  "xp": 100,
+  "energy": 100,
+  "money": 1100,
+  "seeds": 42,
+  "water": 100,
+  "fertilizer": 20,
+  "farm_plots": [
+    {
+      "crop": "tomatoes",
+      "planted_day": 15,
+      "health": 45,
+      "watered": false
+    },
+    {
+      "crop": "sukuma",
+      "planted_day": 15,
+      "health": 45,
+      "watered": false
+    },
+    {
+      "crop": "coffee",
+      "planted_day": 15,
+      "health": 45,
+      "watered": false
+    },
+    {
+      "crop": "beans",
+      "planted_day": 15,
+      "health": 45,
+      "watered": false
+    }
+  ],
+  "current_era": "1960s",
+  "day": 16,
+  "era_progress": {
+    "1960s": {
+      "unlocked": true,
+      "events_completed": 1,
+      "completed": false
+    },
+    "1980s": {
+      "unlocked": false,
+      "events_completed": 0,
+      "completed": false
+    },
+    "2000s": {
+      "unlocked": false,
+      "events_completed": 0,
+      "completed": false
+    },
+    "2010s": {
+      "unlocked": false,
+      "events_completed": 0,
+      "completed": false
+    },
+    "2020s": {
+      "unlocked": false,
+      "events_completed": 0,
+      "completed": false
+    }
+  },
+  "active_events": [
+    {
+      "name": "Kenya Independence",
+      "year": 1963,
+      "day": 15,
+      "location": {
+        "lat": -1.2921,
+        "lon": 36.8219,
+        "name": "Nairobi"
+      },
+      "type": "political",
+      "effect": {
+        "morale": 30,
+        "prices": 20
+      },
+      "description": "Kenya achieves independence! Uhuru celebrations bring hope and new opportunities for farmers.",
+      "challenge": "Participate in national food drive for independence celebrations",
+      "emoji": "\ud83c\uddf0\ud83c\uddea"
+    }
+  ],
+  "completed_challenges": []
+}
